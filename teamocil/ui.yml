@@ -1,0 +1,8 @@
+windows:
+        - name: ui
+          root: ~/src/axon-ui
+          layout: 23d9,364x132,0,0{82x132,0,0[82x66,0,0,0,82x65,0,67,2],281x132,83,0,1}
+          panes:
+                  - yarn dev
+                  - git status
+                  - ls
